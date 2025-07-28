@@ -1,0 +1,601 @@
+[
+  {
+    "text": "Application form for grant of LTC advance",
+    "fonts": [
+      {
+        "size": 11.7,
+        "font": "Arial,Bold",
+        "flags": 20
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "1.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Name of the Government Servant",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "2.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Designation",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "3.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Date of entering the Central Government",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Service",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "4.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "PAY + SI + NPA",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "5.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Whether permanent or temporary",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "6.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Home Town as recorded in the Service Book",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "7.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Whether wife / husband is employed and if",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "so whether entitled to LTC",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "8.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Whether the concession is to be availed for",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "visiting home town and if so block for which",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "LTC is to be availed.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "9.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "(a) If the concession is to visit anywhere in",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "India, the place to be visited.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "(b) Block for which to be availed.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "10.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Single",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "rail",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "fare/bus",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "fare",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "from",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "the",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "headquarters to home town/place of visit by",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "shortest route.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "11.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Persons in respect of whom LTC is proposed to be availed.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "S.No",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Name",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Age",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Relationship",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "1.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "2.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "3.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "4.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "5.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "6.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "12. Amount of advance required.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      },
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 1
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Rs.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "advance, I undertake to refund the entire advance in one lump sum.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Date",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "Signature of Government Servant.",
+    "fonts": [
+      {
+        "size": 9.7,
+        "font": "Tahoma-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  }
+]

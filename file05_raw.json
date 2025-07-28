@@ -1,0 +1,234 @@
+[
+  {
+    "text": "ADDRESS:",
+    "fonts": [
+      {
+        "size": 12.4,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "TOPJUMP",
+    "fonts": [
+      {
+        "size": 12.4,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "3735 PARKWAY",
+    "fonts": [
+      {
+        "size": 12.4,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 12.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "PIGEON FORGE, TN 37863",
+    "fonts": [
+      {
+        "size": 12.4,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "(NEAR DIXIE STAMPEDE ON THE PARKWAY)",
+    "fonts": [
+      {
+        "size": 9.4,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 9.4,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 9.4,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "RSVP: ----------------",
+    "fonts": [
+      {
+        "size": 12.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 26.7,
+        "font": "Times-Roman",
+        "flags": 4
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING",
+    "fonts": [
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "PARENTS OR GUARDIANS NOT ATTENDING THE PARTY,",
+    "fonts": [
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "PLEASE VISIT TOPJUMP.COM TO FILL OUT WAIVER",
+    "fonts": [
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      },
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "SO YOUR CHILD CAN ATTEND.",
+    "fonts": [
+      {
+        "size": 7.2,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "HOPE To SEE Y ou T HERE !",
+    "fonts": [
+      {
+        "size": 22.7,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 26.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 22.5,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 26.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 24.5,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 26.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 22.0,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      },
+      {
+        "size": 26.4,
+        "font": "Helvetica-Bold",
+        "flags": 16
+      }
+    ],
+    "page": 1
+  },
+  {
+    "text": "WWW.TOPJUMP.COM",
+    "fonts": [
+      {
+        "size": 18.0,
+        "font": "Helvetica",
+        "flags": 0
+      }
+    ],
+    "page": 1
+  }
+]
