@@ -132,9 +132,9 @@ For a structured academic-style PDF:
 
 * `file01.pdf` – form-style with tables and fields
 * `file02.pdf` – structured technical PDF with nested headings
-* 'file03.pdf'
-* 'file04.pdf'
-* 'file05.pdf'
+* `file03.pdf`
+* `file04.pdf`
+* `file05.pdf`
 
 ---
 
