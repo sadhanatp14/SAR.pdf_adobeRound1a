@@ -1,10 +1,6 @@
 # SAR.pdf_adobeRound1a
 Python-based offline PDF outline extractor that uses font size, style, and numbering patterns to generate structured outlines (Title, H1, H2, H3 with page numbers) from any PDF document. Designed for Adobe Hackathon 2025 Round 1A.
 
-Here is a complete `README.md` content tailored for **Round 1A** (PDF Outline Extractor) of the Adobe Hackathon 2025:
-
----
-
 # PDF Outline Extractor – Adobe Hackathon 2025 (Round 1A)
 
 This project is a lightweight and offline-compatible Python tool to extract structured outlines from PDF documents. The extractor identifies the **document title** and **headings (H1, H2, H3)** using a combination of **textual features** (like numbering patterns) and **visual cues** (font size, boldness, and position).
