@@ -4,8 +4,8 @@ import json
 import re
 from collections import Counter
 
-INPUT_DIR = "appA/input"
-OUTPUT_DIR = "appA/output"
+INPUT_DIR = "main/input"
+OUTPUT_DIR = "main/output"
 
 def extract_text_blocks(pdf_path):
     doc = fitz.open(pdf_path)
